@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>No mountain landing mod</name>
+    <author>Sergwest</author>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <packageId>boats.sergwest.nomountainlanding</packageId>
+    <description>
+      my friend said it's annoying
+    </description>
+</ModMetaData>
